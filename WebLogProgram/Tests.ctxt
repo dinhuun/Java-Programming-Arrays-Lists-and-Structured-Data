@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=list
+comment0.target=void\ printArrayList(java.util.ArrayList)
+comment1.params=
+comment1.target=void\ testLogEntry()
+comment2.params=
+comment2.target=void\ testLogAnalyzer()
+comment3.params=filename\ num
+comment3.target=void\ testentriesWithSCHigherThan(java.lang.String,\ int)
+comment4.params=filename\ low\ high
+comment4.target=void\ testuniqueIPsWithSCInRange(java.lang.String,\ int,\ int)
+comment5.params=filename
+comment5.target=void\ testIPsInLog(java.lang.String)
+comment6.params=filename
+comment6.target=void\ testIPsByDates(java.lang.String)
+comment7.params=filename\ day
+comment7.target=void\ testIPsInDay(java.lang.String,\ java.lang.String)
+numComments=8

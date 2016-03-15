@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=key
+comment0.target=void\ testCaesarCipher(int)
+comment1.params=
+comment1.target=void\ testCaesarCracker()
+comment2.params=key
+comment2.target=void\ testVigenereCipher(int[])
+comment3.params=mostCommon
+comment3.target=void\ testcrackForLanguage(char)
+comment4.params=
+comment4.target=void\ testcrackForLanguages()
+numComments=5

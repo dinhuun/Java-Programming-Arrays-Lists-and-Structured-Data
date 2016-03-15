@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=n\ w
+comment0.target=SimpleOO(int,\ java.lang.String)
+comment1.params=num\ string
+comment1.target=java.lang.String\ mystery(int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3

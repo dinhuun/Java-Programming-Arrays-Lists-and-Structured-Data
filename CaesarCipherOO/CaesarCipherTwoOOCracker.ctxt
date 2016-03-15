@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=message\ start
+comment0.target=java.lang.String\ halfOfString(java.lang.String,\ int)
+comment1.params=input
+comment1.target=java.lang.String\ crack(java.lang.String)
+numComments=2

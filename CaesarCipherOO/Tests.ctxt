@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=key
+comment0.target=void\ testCaesarCipherOO(int)
+comment1.params=
+comment1.target=void\ testCaesarCipherOOCracker()
+comment2.params=key0\ key1
+comment2.target=void\ testCaesarCipherTwoOO(int,\ int)
+comment3.params=
+comment3.target=void\ testCaesarCipherTwoOOCracker()
+numComments=4

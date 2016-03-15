@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=message\ column\ columns
+comment0.target=java.lang.String\ sliceString(java.lang.String,\ int,\ int)
+comment1.params=encrypted\ keylength\ mostCommon
+comment1.target=int[]\ tryKeyLength(java.lang.String,\ int,\ char)
+comment2.params=fr
+comment2.target=java.util.HashSet\ readDictionary(edu.duke.FileResource)
+comment3.params=decrypted\ dictionary
+comment3.target=int\ countWords(java.lang.String,\ java.util.HashSet)
+comment4.params=encrypted\ dictionary\ mostCommon
+comment4.target=java.lang.String\ crackForLanguage(java.lang.String,\ java.util.HashSet,\ char)
+comment5.params=dictionary
+comment5.target=char\ mostCommonChar(java.util.HashSet)
+comment6.params=encrypted\ languages
+comment6.target=java.lang.String\ crackForLanguages(java.lang.String,\ java.util.HashMap)
+comment7.params=message\ column\ columns
+comment7.target=void\ testsliceString(java.lang.String,\ int,\ int)
+comment8.params=keylength\ mostCommon
+comment8.target=void\ testtryKeyLength(int,\ char)
+numComments=9

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LogAnalyzer()
+comment1.params=filename
+comment1.target=void\ readFile(java.lang.String)
+comment2.params=
+comment2.target=void\ printAll()
+comment3.params=num
+comment3.target=java.util.ArrayList\ entriesWithSCHigherThan(int)
+comment4.params=low\ high
+comment4.target=java.util.ArrayList\ uniqueIPsWithSCInRange(int,\ int)
+comment5.params=
+comment5.target=java.util.ArrayList\ IPsInLog()
+comment6.params=
+comment6.target=java.util.HashMap\ IPsByDates()
+numComments=7

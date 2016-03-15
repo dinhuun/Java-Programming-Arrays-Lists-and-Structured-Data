@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CharactersinPlay()
+comment1.params=fr
+comment1.target=void\ findAllCharacters(edu.duke.FileResource)
+comment2.params=name
+comment2.target=void\ update(java.lang.String)
+comment3.params=
+comment3.target=void\ testfindAllCharacters()
+comment4.params=percent
+comment4.target=void\ findWhoSpeakPercent(double)
+comment5.params=low\ high
+comment5.target=void\ findWhoSpeakInRange(int,\ int)
+comment6.params=
+comment6.target=void\ findWhoSpeakMost2ndMost3rdMost()
+numComments=7

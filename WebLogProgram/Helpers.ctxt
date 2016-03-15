@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=map
+comment0.target=int\ maxValue(java.util.HashMap)
+comment1.params=map\ value
+comment1.target=java.util.ArrayList\ inverseImage(java.util.HashMap,\ int)
+comment2.params=list
+comment2.target=java.util.HashMap\ countMultiplicities(java.util.ArrayList)
+numComments=3
